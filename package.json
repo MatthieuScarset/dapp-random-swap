@@ -1,0 +1,21 @@
+{
+  "name": "dapp-random-swap",
+  "version": "1.0.0",
+  "description": "Swap tokens randomly, once a day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Matthieu",
+    "email": "m@matthieuscarset.com",
+    "url": "https://matthieuscarset.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.6.7"
+  },
+  "dependencies": {
+    "@uniswap/v3-periphery": "^1.2.1"
+  }
+}
