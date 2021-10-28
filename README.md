@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+# RandomSwap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🎉 | Win random swaps, once a day | 🎉
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Try running some of the following tasks:
+## How to play
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+* Deposit ERC-20 tokens to: `randomswap.eth`
+* Visit [mainnet.randomswap.eth](https://mainnet.randomswap.eth)
+* Claim your tokens 🙌
+* Have fun!
