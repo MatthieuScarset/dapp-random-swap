@@ -25,7 +25,7 @@ contract RandomSwap is Ownable {
     }
 
     // Deploy contract.
-    constructor() payable {}
+    constructor() {}
 
     // Make it swap!
     function swap(string memory _token, uint256 _amount)
